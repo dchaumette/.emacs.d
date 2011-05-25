@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/67/trunk/emacs/modes
+END
+anything.el
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/67/trunk/emacs/modes/anything.el
+END
+protbuf.el
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/61/trunk/emacs/modes/protbuf.el
+END
+snippet.el
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/emacs/modes/snippet.el
+END
+anything-config.el
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/67/trunk/emacs/modes/anything-config.el
+END
+html-inlined.el
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/7/trunk/emacs/modes/html-inlined.el
+END
+elscreen-dired.el
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/17/trunk/emacs/modes/elscreen-dired.el
+END
+django-html-mode.el
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/18/trunk/emacs/modes/django-html-mode.el
+END
+highlight-parentheses.el
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/64/trunk/emacs/modes/highlight-parentheses.el
+END
+psvn.el
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/59/trunk/emacs/modes/psvn.el
+END
+erc-nicklist.el
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/60/trunk/emacs/modes/erc-nicklist.el
+END
+iswitch-recent-files.el
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/emacs/modes/iswitch-recent-files.el
+END
+message-x.el
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/emacs/modes/message-x.el
+END
+ipython.el
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/emacs/modes/ipython.el
+END
+inf-ruby.el
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/emacs/modes/inf-ruby.el
+END
+window-numbering.el
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/58/trunk/emacs/modes/window-numbering.el
+END
+python-outline.el
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/48/trunk/emacs/modes/python-outline.el
+END
+js2.el
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/48/trunk/emacs/modes/js2.el
+END
+twitter.el
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/58/trunk/emacs/modes/twitter.el
+END
+csharp-mode.el
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/emacs/modes/csharp-mode.el
+END
+ruby-mode.el
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/emacs/modes/ruby-mode.el
+END
+google-define.el
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/emacs/modes/google-define.el
+END
+color-theme-wombat.el
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/58/trunk/emacs/modes/color-theme-wombat.el
+END
+breadcrumb.el
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/46/trunk/emacs/modes/breadcrumb.el
+END
+rst.el
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/48/trunk/emacs/modes/rst.el
+END
+rpm-spec-mode.el
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/48/trunk/emacs/modes/rpm-spec-mode.el
+END
+php-mode.el
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/59/trunk/emacs/modes/php-mode.el
+END
+winring.el
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/46/trunk/emacs/modes/winring.el
+END

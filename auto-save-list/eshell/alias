@@ -1,0 +1,5 @@
+alias d ls
+alias s cd ..
+alias p cd -
+alias ll ls -l
+alias lt ls -ltr

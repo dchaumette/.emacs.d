@@ -1,0 +1,160 @@
+;;-*-coding: emacs-mule;-*-
+(define-abbrev-table 'Buffer-menu-mode-abbrev-table '())
+
+(define-abbrev-table 'awk-mode-abbrev-table
+  '(
+   ))
+
+(define-abbrev-table 'c++-mode-abbrev-table
+  '(
+   ))
+
+(define-abbrev-table 'c-mode-abbrev-table
+  '(
+   ))
+
+(define-abbrev-table 'comint-mode-abbrev-table '())
+
+(define-abbrev-table 'completion-list-mode-abbrev-table '())
+
+(define-abbrev-table 'cperl-mode-abbrev-table
+  '(
+    ("=head1" "=head1" cperl-electric-pod 0)
+    ("=head2" "=head2" cperl-electric-pod 0)
+    ("=over" "=over" cperl-electric-pod 0)
+    ("=pod" "=pod" cperl-electric-pod 0)
+    ("continue" "continue" cperl-electric-else 0)
+    ("do" "do" cperl-electric-keyword 0)
+    ("else" "else" cperl-electric-else 0)
+    ("elsif" "elsif" cperl-electric-keyword 0)
+    ("for" "for" cperl-electric-keyword 0)
+    ("foreach" "foreach" cperl-electric-keyword 0)
+    ("foreachmy" "foreachmy" cperl-electric-keyword 0)
+    ("formy" "formy" cperl-electric-keyword 0)
+    ("head1" "head1" cperl-electric-pod 0)
+    ("head2" "head2" cperl-electric-pod 0)
+    ("if" "if" cperl-electric-keyword 0)
+    ("over" "over" cperl-electric-pod 0)
+    ("pod" "pod" cperl-electric-pod 0)
+    ("unless" "unless" cperl-electric-keyword 0)
+    ("until" "until" cperl-electric-keyword 0)
+    ("while" "while" cperl-electric-keyword 0)
+   ))
+
+(define-abbrev-table 'csharp-mode-abbrev-table
+  '(
+    ("names" "" snippet-abbrev-csharp-mode-names 0)
+   ))
+
+(define-abbrev-table 'django-html-mode-abbrev-table
+  '(
+    ("%bl" "" snippet-abbrev-django-html-mode-%bl 0)
+    ("%for" "" snippet-abbrev-django-html-mode-%for 0)
+    ("%if" "" snippet-abbrev-django-html-mode-%if 0)
+   ))
+
+(define-abbrev-table 'django-models-mode-abbrev-table
+  '(
+    ("addmodel" "" snippet-abbrev-django-models-mode-addmodel 0)
+    ("mcf" "" snippet-abbrev-django-models-mode-mcf 0)
+    ("mfk" "" snippet-abbrev-django-models-mode-mfk 0)
+   ))
+
+(define-abbrev-table 'ecmascript-mode-abbrev-table
+  '(
+    ("function" "" snippet-abbrev-ecmascript-mode-function 0)
+   ))
+
+(define-abbrev-table 'fundamental-mode-abbrev-table '())
+
+(define-abbrev-table 'global-abbrev-table '())
+
+(define-abbrev-table 'grep-mode-abbrev-table '())
+
+(define-abbrev-table 'html-mode-abbrev-table
+  '(
+    ("body" "" snippet-abbrev-html-mode-body 0)
+    ("dchttr" "" snippet-abbrev-html-mode-dchttr 0)
+    ("dcxml1" "" snippet-abbrev-html-mode-dcxml1 0)
+    ("dcxmlf" "" snippet-abbrev-html-mode-dcxmlf 0)
+    ("dcxmls" "" snippet-abbrev-html-mode-dcxmls 0)
+    ("dcxmlt" "" snippet-abbrev-html-mode-dcxmlt 0)
+    ("div" "" snippet-abbrev-html-mode-div 0)
+    ("dtht" "" snippet-abbrev-html-mode-dtht 0)
+    ("form" "" snippet-abbrev-html-mode-form 0)
+    ("h" "" snippet-abbrev-html-mode-h 0)
+    ("head" "" snippet-abbrev-html-mode-head 0)
+    ("input" "" snippet-abbrev-html-mode-input 0)
+    ("mailto" "" snippet-abbrev-html-mode-mailto 0)
+    ("meta" "" snippet-abbrev-html-mode-meta 0)
+    ("script" "" snippet-abbrev-html-mode-script 0)
+    ("scriptsrc" "" snippet-abbrev-html-mode-scriptsrc 0)
+    ("style" "" snippet-abbrev-html-mode-style 0)
+    ("table" "" snippet-abbrev-html-mode-table 0)
+    ("textarea" "" snippet-abbrev-html-mode-textarea 0)
+    ("title" "" snippet-abbrev-html-mode-title 0)
+   ))
+
+(define-abbrev-table 'idl-mode-abbrev-table '())
+
+(define-abbrev-table 'java-mode-abbrev-table
+  '(
+   ))
+
+(define-abbrev-table 'lisp-mode-abbrev-table '())
+
+(define-abbrev-table 'message-mode-abbrev-table '())
+
+(define-abbrev-table 'objc-mode-abbrev-table
+  '(
+   ))
+
+(define-abbrev-table 'php-mode-abbrev-table
+  '(
+    ("fun" "" snippet-abbrev-php-mode-fun 0)
+    ("pf" "" snippet-abbrev-php-mode-pf 0)
+    ("pvf" "" snippet-abbrev-php-mode-pvf 0)
+   ))
+
+(define-abbrev-table 'pike-mode-abbrev-table
+  '(
+   ))
+
+(define-abbrev-table 'python-mode-abbrev-table
+  '(
+    ("cl" "" snippet-abbrev-python-mode-cl 0)
+    ("def" "" snippet-abbrev-python-mode-def 0)
+    ("defs" "" snippet-abbrev-python-mode-defs 0)
+    ("ifm" "" snippet-abbrev-python-mode-ifm 0)
+    ("pp" "" snippet-abbrev-python-mode-pp 0)
+    ("sy" "" snippet-abbrev-python-mode-sy 0)
+    ("try" "" snippet-abbrev-python-mode-try 0)
+   ))
+
+(define-abbrev-table 'rst-mode-abbrev-table
+  '(
+    ("con" ".. contents::
+..
+   " nil 0)
+    ("cont" "[...]" nil 0)
+    ("contents" ".. contents::
+..
+   " nil 0)
+    ("seq" "
+
+[...]
+
+  " nil 0)
+    ("skip" "
+
+[...]
+
+  " nil 0)
+   ))
+
+(define-abbrev-table 'special-mode-abbrev-table '())
+
+(define-abbrev-table 'text-mode-abbrev-table '())
+
+(define-abbrev-table 'vc-svn-log-view-mode-abbrev-table '())
+

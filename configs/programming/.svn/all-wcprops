@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/65/trunk/emacs/configs/programming
+END
+csharp.el
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/emacs/configs/programming/csharp.el
+END
+java.el
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/emacs/configs/programming/java.el
+END
+python.el
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/65/trunk/emacs/configs/programming/python.el
+END
+ruby.el
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/emacs/configs/programming/ruby.el
+END
+django.el
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/46/trunk/emacs/configs/programming/django.el
+END
+html.el
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/48/trunk/emacs/configs/programming/html.el
+END
+cc.el
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/emacs/configs/programming/cc.el
+END
+cperl.el
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/emacs/configs/programming/cperl.el
+END
+_common.el
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/46/trunk/emacs/configs/programming/_common.el
+END
+php.el
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/65/trunk/emacs/configs/programming/php.el
+END
+shell.el
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/emacs/configs/programming/shell.el
+END
+elisp.el
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/64/trunk/emacs/configs/programming/elisp.el
+END

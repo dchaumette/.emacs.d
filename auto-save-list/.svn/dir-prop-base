@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 99
+history
+mysql_history.sql
+recent-file-list.el
+breadcrumb.el
+bookmarks.bmk
+abbrev_defs
+emacs-places
+
+END

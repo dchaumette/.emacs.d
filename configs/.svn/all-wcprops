@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/67/trunk/emacs/configs
+END
+settings.el
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/66/trunk/emacs/configs/settings.el
+END
+appearances.el
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/65/trunk/emacs/configs/appearances.el
+END
+rcirc.el
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/56/trunk/emacs/configs/rcirc.el
+END
+customed.el
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/67/trunk/emacs/configs/customed.el
+END
+extra-modes.el
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/65/trunk/emacs/configs/extra-modes.el
+END
+erc.el
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/60/trunk/emacs/configs/erc.el
+END
+default-modes.el
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/67/trunk/emacs/configs/default-modes.el
+END
+my-functions.el
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/48/trunk/emacs/configs/my-functions.el
+END
