@@ -2,6 +2,9 @@
 ;Initializations variables
 (defvar my-init-directory "~/.emacs.d")
 
+
+
+
 ;Initializations Config
 (add-to-list 'load-path (expand-file-name (concat my-init-directory "/modes/")))
 (add-to-list 'load-path (expand-file-name (concat my-init-directory "/modes/local")))
